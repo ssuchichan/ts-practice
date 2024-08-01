@@ -3,7 +3,6 @@
 node_modules
 dist
 ch01/part1/*.js
-ch01/part2/dist/*
 
 package-lock.json
 
